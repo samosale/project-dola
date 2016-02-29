@@ -13,6 +13,9 @@ Chart with all occupations in USA
 
 Visualising and simulating stres test
 
+
+Maslow's hierarchy of needs:
+
 Friendly algorithm with sugestions on where is profit oportunity based on countries GDP data and expected GDP growth
 
 
